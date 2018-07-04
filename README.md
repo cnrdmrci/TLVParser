@@ -1,1 +1,1 @@
-TLV Parser
+'TLV Parser' programı sorunsuz çalışmaktadır. Dosyadan seçme veya konsol ekranına yapıştırma yöntemiyle veri girilebilmektedir. Ekran görüntüleri eklenmiştir. Tagler verilmemiştir.
